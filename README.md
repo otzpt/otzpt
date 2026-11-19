@@ -38,4 +38,4 @@ Everything else in [my repositories](https://github.com/otzpt?tab=repositories) 
 
 <a href="https://github.com/otzpt"><img src="https://streak-stats.demolab.com/?user=otzpt&theme=dark&hide_border=true" alt="Contribution streak"></a>
 
-![Visitors](https://komarev.com/ghpvc/?username=otzpt&color=555555&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=otzpt&color=3670A0&style=for-the-badge)
