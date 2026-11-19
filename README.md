@@ -4,9 +4,24 @@
 
 ## About me
 
-I am from Portugal. I like overclocking and system optimization, and C is my favourite language. I mostly build command-line tools and low-level software: programming courses that run in the terminal, a code editor forked from Zed, a Windows tweaking tool, and a small language model I trained from scratch. I use Void Linux day to day and Windows only when I have to.
+I am from Portugal and I write in Portuguese and English.<br>
+Linux is my daily system (Void Linux). I have also run Arch with KDE and Hyprland.<br>
+I do not trust defaults, so I tune everything: the desktop, the terminal, the editor and the hardware.
 
-Some of my projects are vibecoded and say so in their READMEs. VOIDSEED is AI-assisted: I make the decisions and the AI helps.
+**What I like**<br>
+Overclocking and getting more out of the hardware I own.<br>
+Finding out what a system is really doing, with measurements instead of guesses.<br>
+Low-level work: C, terminals, system calls, assembly and microcontrollers.<br>
+Local-first software with no telemetry and no account.<br>
+Running and training language models on my own machine.
+
+**How I work**<br>
+I write the code first and ask for help second.<br>
+I use AI as an assistant: it knows a lot, but I make the decisions.<br>
+I check claims by running them, and I say what AI did.
+
+**Languages**<br>
+C is my favourite. I also use Python, JavaScript, C++ and C#.
 
 ## Projects
 
