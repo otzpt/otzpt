@@ -11,9 +11,7 @@ Overclocking and getting more out of the hardware I own.<br>
 Finding out what a system is actually doing by measuring it.<br>
 Low-level programming: C, terminal programs, assembly and microcontrollers.<br>
 Software that runs locally, with no telemetry and no account.<br>
-Running and training small language models on my own machine.<br><br>
-**Languages**<br>
-C is my favourite. I also use Python, JavaScript and C++.
+Running and training small language models on my own machine.
 
 ## Tech stack
 
