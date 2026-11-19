@@ -5,13 +5,16 @@
 ## About me
 
 I am from Portugal and I write in Portuguese and English.<br>
-I use Void Linux every day, and I have also run Arch with KDE and Hyprland. I set up my own desktop, terminal and editor instead of keeping the defaults.<br><br>
+I use void linux with gnome on my laptop, and arch with a custom riced kde on my main desktop. I use my own rice and conf for nvim and kitty instead of defaults and pre-made rices.<br><br>
 **What I am into**<br>
-Overclocking and getting more out of the hardware I own.<br>
+Overclocking and system optimization.<br>
 Finding out what a system is actually doing by measuring it.<br>
-Low-level programming: C, terminal programs, assembly and microcontrollers.<br>
-Software that runs locally, with no telemetry and no account.<br>
-Running and training small language models on my own machine.
+Low-level programming/systems programming: C, terminal programs, assembly and microcontrollers.<br>
+Competetive programming<br>
+Open-source and 0 telemetry 0 bloat software.<br><br>
+
+**what i hate**<br>
+Electron
 
 ## Tech stack
 
