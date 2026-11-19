@@ -36,6 +36,4 @@ Everything else in [my repositories](https://github.com/otzpt?tab=repositories) 
 <a href="https://github.com/otzpt"><img height="165" src="https://github-readme-stats.vercel.app/api?username=otzpt&show_icons=true&theme=dark&hide_border=true&cache_seconds=21600" alt="GitHub stats and rank for otzpt"></a>
 <a href="https://github.com/otzpt"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otzpt&layout=compact&theme=dark&hide_border=true&exclude_repo=V-Agent,VOIDTUNE,Voidtune-one-click,CodeLearner,voidtune-website&cache_seconds=21600" alt="Most used languages"></a>
 
-<a href="https://github.com/otzpt"><img src="https://streak-stats.demolab.com/?user=otzpt&theme=dark&hide_border=true" alt="Contribution streak"></a>
-
 ![Visitors](https://komarev.com/ghpvc/?username=otzpt&color=3670A0&style=for-the-badge)
