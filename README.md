@@ -4,24 +4,13 @@
 
 ## About me
 
-I am from Portugal and I write in Portuguese and English.<br>
-Linux is my daily system (Void Linux). I have also run Arch with KDE and Hyprland.<br>
-I do not trust defaults, so I tune everything: the desktop, the terminal, the editor and the hardware.
+I am from Portugal (Portuguese and English). Void Linux is my daily system and I tune everything I own.<br>
+I like overclocking, measuring what a system really does, low-level C, microcontrollers and local-first software.<br>
+I write the code first and ask for help second. AI assists, I decide, and I say what it did.
 
-**What I like**<br>
-Overclocking and getting more out of the hardware I own.<br>
-Finding out what a system is really doing, with measurements instead of guesses.<br>
-Low-level work: C, terminals, system calls, assembly and microcontrollers.<br>
-Local-first software with no telemetry and no account.<br>
-Running and training language models on my own machine.
+## Tech stack
 
-**How I work**<br>
-I write the code first and ask for help second.<br>
-I use AI as an assistant: it knows a lot, but I make the decisions.<br>
-I check claims by running them, and I say what AI did.
-
-**Languages**<br>
-C is my favourite. I also use Python, JavaScript, C++ and C#.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## Projects
 
@@ -56,3 +45,5 @@ C is my favourite. I also use Python, JavaScript, C++ and C#.
 <a href="https://github.com/otzpt"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otzpt&layout=compact&theme=dark&hide_border=true" alt="Most used languages"></a>
 
 <a href="https://github.com/otzpt"><img src="https://streak-stats.demolab.com/?user=otzpt&theme=dark&hide_border=true" alt="Contribution streak"></a>
+
+![Visitors](https://komarev.com/ghpvc/?username=otzpt&icon=0&color=0)
