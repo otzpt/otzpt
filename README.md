@@ -11,7 +11,8 @@ Overclocking and system optimization.<br>
 Finding out what a system is actually doing by measuring it.<br>
 Low-level programming/systems programming: C, terminal programs, assembly and microcontrollers.<br>
 Competitive programming<br>
-Open-source and 0 telemetry 0 bloat software.
+Open-source and 0 telemetry 0 bloat software.<br>
+Taking part in YSWS (You Ship, We Ship) programs from Hack Club.
 
 ## Tech stack
 
