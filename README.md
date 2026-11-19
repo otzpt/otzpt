@@ -5,8 +5,7 @@
 ## About me
 
 I am from Portugal (Portuguese and English). Void Linux is my daily system and I tune everything I own.<br>
-I like overclocking, measuring what a system really does, low-level C, microcontrollers and local-first software.<br>
-I write the code first and ask for help second. AI assists, I decide, and I say what it did.
+I like overclocking, measuring what a system really does, low-level C, microcontrollers and local-first software.
 
 ## Tech stack
 
