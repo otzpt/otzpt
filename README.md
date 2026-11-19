@@ -29,22 +29,7 @@ C is my favourite. I also use Python, JavaScript and C++.
 - [Voidtune-one-click](https://github.com/otzpt/Voidtune-one-click): VOIDTUNE's one-click version, in C, for Windows and Linux.
 - [voidtune-website](https://github.com/otzpt/voidtune-website): the VOIDTUNE site.
 
-### Handwritten / AI-assisted
-
-- [VOIDSEED](https://github.com/otzpt/VOIDSEED): my first LLM, written in Python (AI-assisted).
-- [VoidFetch](https://github.com/otzpt/VoidFetch): my own version of fastfetch, in C.
-- [CaffeineOS](https://github.com/otzpt/CaffeineOS): a web OS inspired by Garuda Linux with Hyprland.
-- [CaffeineOS_lite](https://github.com/otzpt/CaffeineOS_lite): a simple web OS I made to learn JavaScript.
-- [SimpleServiceScript-SSS-](https://github.com/otzpt/SimpleServiceScript-SSS-): a Linux script to start, stop, restart and check services, made to learn `subprocess` (no AI used).
-- [vagent-extensions](https://github.com/otzpt/vagent-extensions): open extension registry for V-Agent, Python tools the AI agent can call.
-- [GrabGame](https://github.com/otzpt/GrabGame): my first TUI game in C, using ncurses.
-- [SnakeGame](https://github.com/otzpt/SnakeGame): a snake game in C.
-- [Navigation-system](https://github.com/otzpt/Navigation-system): a simple navigation game in C.
-- [Maze_12MHZ](https://github.com/otzpt/Maze_12MHZ): maze-solving code for a robot competition, in C++.
-- [intern_project](https://github.com/otzpt/intern_project): my internship project, a CO2, humidity, temperature and gas detector for a car.
-- [VOIDBOT](https://github.com/otzpt/VOIDBOT): a simple Slack bot, my first learning project in bot development.
-- [ZeroG-Kit-](https://github.com/otzpt/ZeroG-Kit-): a toolkit in Python.
-- [WeirdStorage](https://github.com/otzpt/WeirdStorage): a Python project.
+Everything else in [my repositories](https://github.com/otzpt?tab=repositories) is AI-assisted or handwritten.
 
 ## Stats
 
