@@ -5,12 +5,12 @@
 ## About me
 
 I am from Portugal and I write in Portuguese and English.<br>
-I use void linux with gnome on my laptop, and arch with a custom riced kde on my main desktop. I use my own rice and conf for nvim and kitty instead of defaults and pre-made rices.<br><br>
+I use Void Linux with GNOME on my laptop, and Arch with a custom riced KDE on my main desktop. I use my own rice and conf for nvim and kitty instead of defaults and pre-made rices.<br><br>
 **What I am into**<br>
 Overclocking and system optimization.<br>
 Finding out what a system is actually doing by measuring it.<br>
 Low-level programming/systems programming: C, terminal programs, assembly and microcontrollers.<br>
-Competetive programming<br>
+Competitive programming<br>
 Open-source and 0 telemetry 0 bloat software.
 
 ## Tech stack
