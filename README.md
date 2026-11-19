@@ -2,6 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Into+overclocking+and+system+optimization;Favourite+language:+C;Based+in+Portugal&font=Fira+Code&width=440&height=40&duration=3000&pause=1200&color=C9D1D9&vCenter=true&size=16" alt="Into overclocking and system optimization. Favourite language: C. Based in Portugal.">
 
+## About me
+
+I am from Portugal. I like overclocking and system optimization, and C is my favourite language. I mostly build command-line tools and low-level software: programming courses that run in the terminal, a code editor forked from Zed, a Windows tweaking tool, and a small language model I trained from scratch. I use Void Linux day to day and Windows only when I have to.
+
+Some of my projects are vibecoded and say so in their READMEs. VOIDSEED is AI-assisted: I make the decisions and the AI helps.
+
 ## Projects
 
 - [CodeLearner](https://github.com/otzpt/CodeLearner): command-line programming courses, one per language, from C and Assembly to Python, Rust and Git.
